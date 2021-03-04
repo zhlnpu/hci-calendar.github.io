@@ -23,8 +23,8 @@ links:
     name: VR
     link: /vr/
 #  -
-#    name: CG
-#    link: /cg/
+    name: CG
+    link: /cg/
 
 # SEO
 google_analytics: UA-80597905-2
