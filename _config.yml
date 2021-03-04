@@ -1,5 +1,5 @@
 # SYSTEM
-url: "https://hci-calendar.github.io"
+url: "https://zhlnpu.github.io/hci-calendar.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # SITE
@@ -7,7 +7,7 @@ title: HCI Calendar
 description: Calendar of submission deadlines and conference dates for HCI and related conferences
 message: >-
   Please check corrent information on the conference website.<br/>
-  Welcome to edit on <a href="https://github.com/hci-calendar/hci-calendar.github.io">GitHub</a>
+  Welcome to edit on <a href="https://github.com/zhlnpu/hci-calendar.github.io">GitHub</a>
 keywords: >-
   HCI Calendar,
   HCI, Human Computer Interaction,
