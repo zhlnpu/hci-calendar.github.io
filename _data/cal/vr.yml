@@ -2,6 +2,21 @@
   long: IEEE Conference on Virtual Reality and 3D User Interfaces
   years:
   -
+    year: 2021
+    date: "2021-03-27"
+    url : http://ieeevr.org/2021/
+    info: Virtual
+    submissions:
+    -
+      type: Journal Paper
+      date: "2020-09-09"
+    -
+      type: Conference Paper
+      date: "2020-11-13"
+    -
+      type: Poster
+      date: "2021-01-11"
+  -
     year: 2019
     date: "2019-03-23"
     url : http://ieeevr.org/2019/
@@ -24,6 +39,21 @@
   long: IEEE International Symposium on Mixed and Augmented Reality
   years:
   -
+    year: 2021
+    date: "2021-10-04"
+    url : https://ismar21.org/
+    info: Bari , Italy
+    submissions:
+    -
+      type: Journal Paper
+      date: "2021-03-15"
+    -
+      type: Conference Paper
+      date: "2021-05-28"
+    -
+      type: Poster
+      date: "2021-06-18"
+  -
     year: 2018
     date: "2018-10-16"
     url : https://www.ismar2018.org/
@@ -42,6 +72,21 @@
 - name: VRST
   long: ACM Symposium on Virtual Reality Software and Technology
   years:
+  -
+    year: 2021
+    date: "2021-12-08"
+    url : https://vrst.acm.org/vrst2021/
+    info: Osaka, Japan + virtual
+    submissions:
+    -
+      type: Paper
+      date: "2021-07-15"
+    -
+      type: Poster
+      date: "2021-08-15"
+    -
+      type: Demo
+      date: "2021-08-15"
   -
     year: 2019
     date: "2019-11-12"
@@ -76,6 +121,21 @@
 - name: WHC
   long: IEEE World Haptics Conference
   years:
+  -
+    year: 2021
+    date: "2021-07-06"
+    url : https://2021.worldhaptics.org/
+    info: Tokyo, Japan
+    submissions:
+    -
+      type: Technical Paper
+      date: "2019-02-19"
+    -
+      type: WIP (Poster)
+      date: "2021-01-10"
+    -
+      type: Demo
+      date: "TBD"
   -
     year: 2019
     date: "2019-07-09"

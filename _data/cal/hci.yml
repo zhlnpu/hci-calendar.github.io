@@ -96,6 +96,21 @@
   long: ACM Symposium on User Interface Software and Technology
   years:
   -
+    year: 2021
+    date: "2021-10-10"
+    url : https://uist.acm.org/uist2021/
+    info: Virtual, USA
+    submissions:
+    -
+      type: Paper
+      date: "2021-04-07"
+    -
+      type: Poster
+      date: "2021-07-14"
+    -
+      type: Demo
+      date: "2020-07-14"
+  -
     year: 2020
     date: "2020-10-20"
     url : https://uist.acm.org/uist2020/
@@ -145,6 +160,18 @@
   long: International Conference and Exhibition on Computer Graphics and Interactive Techniques
   years:
   -
+    year: 2021
+    date: "2021-08-09"
+    url : https://s2021.siggraph.org/
+    info: Virtual
+    submissions:
+    -
+      type: Electronic Theater
+      date: "2021-03-23"
+    -
+      type: Posters
+      date: "2021-04-20"
+  -
     year: 2019
     date: "2019-07-28"
     url : https://s2019.siggraph.org/
@@ -179,20 +206,20 @@
   long: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia
   years:
   -
-    year: 2019
-    date: "2019-11-17"
-    url : https://sa2019.siggraph.org/
-    info: Brisbane, Australia
+    year: 2021
+    date: "2021-12-14"
+    url : 
+    info: Tokyo, Japan
     submissions:
     -
       type: Technical Paper
-      date: "2019-05-20"
+      date: 
     -
       type: E-Tech (Demo)
-      date: "2019-06-17"
+      date: 
     -
       type: Technical Brief and Poster
-      date: "2019-08-12"
+      date: 
   -
     year: 2018
     date: "2018-12-04"
@@ -212,6 +239,16 @@
 - name: CSCW
   long: ACM Conference on Computer-Supported Cooperative Work and Social Computing
   years:
+  -
+    year: 2021
+    date: "2021-10-23"
+    url : https://cscw.acm.org/2021/
+    info: Virtual
+    submissions:
+    -
+      type: Paper
+      date: "2021-04-15"
+    -
   -
     year: 2019
     date: "2019-11-09"
@@ -243,6 +280,19 @@
 - name: MobileHCI
   long: International Conference on Human-Computer Interaction with Mobile Devices and Services
   years:
+  -
+    year: 2021
+    date: "2021-09-27"
+    url : http://mobilehci.acm.org/2021/
+    info: --% - Toulouse, France & virtually
+    submissions:
+    -
+      type: Paper
+      date: "2021-02-04"
+    -
+      type: Poster (Workshop)
+      date: "2021-03-07"
+    -
   -
     year: 2019
     date: "2019-10-01"
@@ -277,6 +327,19 @@
 - name: IUI
   long: ACM International Conference on Intelligent User Interfaces
   years:
+  -
+    year: 2021
+    date: "2021-04-13"
+    url : https://iui.acm.org/2021/
+    info: Virtual
+    submissions:
+    -
+      type: Paper
+      date: "2021-02-16"
+    -
+      type: Poster
+      date: "2021-01-06"
+    -
   -
     year: 2020
     date: "2020-03-18"
@@ -327,6 +390,21 @@
   long: Augmented Human International Conference
   years:
   -
+    year: 2021
+    date: "2021-02-22"
+    url : https://augmented-humans.org/
+    info: Virtual
+    submissions:
+    -
+      type: Paper
+      date: "2020-12-17"
+    -
+      type: Poster
+      date: "2021-01-26"
+    -
+      type: Demo
+      date: "2021-01-26"
+  -
     year: 2019
     date: "2019-03-11"
     url : https://www.augmented-human.com/
@@ -361,6 +439,36 @@
 - name: ISS
   long: ACM International Conference on Interactive Surfaces and Spaces
   years:
+  -
+    year: 2021
+    date: "2021-05-01"
+    url : https://www.iss2021.com/
+    info: "--% - Rimini, Italy"
+    submissions:
+    -
+      type: Papers and Notes
+      date: ""
+    -
+      type: Demo
+      date: ""
+    -
+      type: Poster
+      date: ""
+  -
+    year: 2019
+    date: "2019-11-10"
+    url : "https://iss.acm.org/2019/"
+    info: "--% - Daejeon, Korea"
+    submissions:
+    -
+      type: Papers and Notes
+      date: "2019-06-28"
+    -
+      type: Demo
+      date: "2019-07-31"
+    -
+      type: Poster
+      date: "2019-07-31"
   -
     year: 2019
     date: "2019-11-10"
@@ -411,6 +519,15 @@
   long: ACM SIGCHI Conference on Designing Interactive Systems
   years:
   -
+    year: 2021
+    date: "2021-06-28"
+    url : https://dis.acm.org/2021/
+    info: Nowhere and Everywhere
+    submissions:
+    -
+      type: Paper
+      date: "2021-02-11"
+  -
     year: 2019
     date: "2019-06-23"
     url : https://dis2019.com/
@@ -444,6 +561,15 @@
 - name: ISWC
   long: International Symposium on Wearable Computers
   years:
+  -
+    year: 2021
+    date: "2021-10-24"
+    url : https://iswc2021.semanticweb.org/
+    info: --% - 
+    submissions:
+    -
+      type: Paper
+      date: "2021-04-19"
   -
     year: 2019
     date: "2019-09-09"
@@ -504,6 +630,21 @@
   long: International Conference on Tangible, Embedded and Embodied Interactions
   years:
   -
+    year: 2021
+    date: "2021-02-14"
+    url : https://tei.acm.org/2021/
+    info: Virtual
+    submissions:
+    -
+      type: Paper
+      date: ""
+    -
+      type: WiP (Poster)
+      date: ""
+    -
+      type: Art Track (Demo)
+      date: ""
+  -
     year: 2020
     date: "2020-02-09"
     url : https://tei.acm.org/2020/
@@ -553,6 +694,18 @@
   long: ACM International Conference on Multimedia
   years:
   -
+    year: 2021
+    date: "2021-10-20"
+    url : https://2021.acmmm.org/
+    info: --% - Chengdu, China
+    submissions:
+    -
+      type: Paper
+      date: "2021-04-03"
+    -
+      type: Demo and Video
+      date: "2021-05-31"
+  -
     year: 2019
     date: "2019-10-21"
     url : http://www.acmmm.org/2019/
@@ -580,6 +733,24 @@
 - name: INTERACT
   long: IFIP TC.13 International Conference on Human-Computer Interaction
   years:
+  -
+    year: 2021
+    date: "2021-08-30"
+    url : https://www.interact2021.org/
+    info: Bari, Italy
+    submissions:
+    -
+      type: Full Paper
+      date: "2021-01-27"
+    -
+      type: Short Paper
+      date: "2021-04-16"
+    -
+      type: Interactive Poster
+      date: "2021-04-16"
+    -
+      type: Demo
+      date: "2021-04-16"
   -
     year: 2019
     date: "2019-09-02"
@@ -626,6 +797,33 @@
 - name: HRI
   long: Human-Robot Interaction
   years:
+  -
+    year: 2021
+    date: "2021-03-09"
+    url : https://humanrobotinteraction.org/2021/
+    info: Virtual
+    submissions:
+    -
+      type: Paper
+      date: "2020-10-05"
+    -
+      type: Workshops and Tutorials
+      date: "2020-10-05"
+    -
+      type: Pioneers
+      date: "2020-11-15"
+    -
+      type: alt.HRI
+      date: "2020-11-30"
+    -
+      type: Late Breaking Work
+      date: "2020-12-14"
+    -
+      type: Exhibition (Demo)
+      date: "2020-12-14"
+    -
+      type: Videos
+      date: "2020-12-14"
   -
     year: 2020
     date: "2019-10-01"
