@@ -206,6 +206,29 @@
   long: ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia
   years:
   -
+    year: 2021
+    date: "2018-12-12"
+    url : https://sa2021.siggraph.org/en/
+    info: Tokyo, Japan
+    submissions:
+    -
+      type: Technical Paper
+      date: "2021-05-20"
+    -
+      type: Emerging technology
+      date: "2021-07-15"
+    -
+      type: XR
+      date: "2021-07-15"
+    -
+      type: Technical Communcation
+      date: "2021-08-11"
+    -
+      type: Poster
+      date: "2021-08-11"
+  
+  
+  -
     year: 2018
     date: "2018-12-04"
     url : https://sa2018.siggraph.org/en/
